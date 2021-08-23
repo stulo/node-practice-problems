@@ -8,8 +8,5 @@
     },
     "keywords": [],
     "author": "Sterling Fairfield <sterlingfairfield@gmail.com>",
-    "license": "MIT",
-    "dependencies": {
-        "chalk": "^4.1.2"
-    }
+    "license": "MIT"
 }
