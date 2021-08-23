@@ -3,7 +3,7 @@ module.exports = (numbers) => {
   var evenNumbers = [];
   var oddNumbers = [];
 
-  allNumbers = numbers.split(",");
+  allNumbers = numbers.split(',');
 
   for (var i = 0; i < allNumbers.length; i++) {
     if (allNumbers[i] % 2 === 0) {

@@ -6,7 +6,7 @@ module.exports = (num) => {
   while (num.length > 1) {
     times++;
     num = num
-      .split("")
+      .split('')
       .map(Number)
       .reduce((a, b) => a * b) // a is previous value, b is current value
       .toString();
